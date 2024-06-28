@@ -1,5 +1,5 @@
 import download from "../assets/images/download.png";
-import myResume from "../assets/others/owais_resume.pdf";
+import myResume from "../assets/others/resumes/Owias_Frontend_Resume.pdf";
 
 const Experience = () => {
   return (
